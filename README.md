@@ -31,7 +31,7 @@
 
 > git --config --local user.email 'your email'
 
-![avatar](https://imgchr.com/i/E1GPnP)
+![avatar](https://s2.ax1x.com/2019/04/29/E1GPnP.png)
 
 > git add {文件} 把文件提交到git  让git管控 提交到暂存区（stage）
 > git add -u 把所有的都提交到暂存区
