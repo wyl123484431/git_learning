@@ -42,7 +42,7 @@
 
 > git log {文件} 查看日志
 
-![image](8A9140E4ACF8428CA374FA499D0885EF)
+![image](https://s2.ax1x.com/2019/04/29/E1JxsI.png)
 
 ### 给文件重命名 快捷方式
 > git mv {原文件名} {重新的命名}
